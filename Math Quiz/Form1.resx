@@ -120,4 +120,28 @@
   <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAEAIAAoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AABCUl//c4OQ/3OAjv+IlaP/aHiF/0hZZv84S1j/L0JP/zFDTv88Slb/R01a/z9CUP87QUz/R01Y/292
+        f/+8w8z/RlZj/1hodf90hJH/cYGO/3SBj/9IVWP/FSYz/wYYI/8RIS3/Hio2/0FHVP9VW2b/S1Re/0VP
+        Wf9OWWH/UFtj/zVCUP9GVmP/Wm55/3yOmf+IlKD/LjdE/wQQHP8KGSL/CRUf/wwWIP81O0b/V2Bq/1Rj
+        bP9RY2r/TmBn/y9BSP9ASVf/Q1Fd/ztNWP9XaXT/XGVy/x8lMP8PGCL/Dxkj/yAsNv8wPUX/MzxG/1li
+        a/9jc3r/Rllg/zZMUv9wiI7/Vlln/21zgP9reYX/YnF6/0VOWP9ESVL/Ymly/2Vud/9KV1//PExS/0pV
+        Xf9HUlr/Z3R8/21/hv+ds7n/nbe9/3B4hf93gI3/iJeg/1Vha/9ocXr/c3iB/5KUnv+Jj5b/ZXF3/05e
+        ZP9GVFr/TVth/2h1ff+BlJv/nLq//3CVmf+OqrH/h6Go/5ars/9ZaHH/ZnF5/3yBiv9YVV7/S0hR/2hu
+        df9ibnL/WWlv/01dY/9ufIL/fZaa/4CtsP9tpab/nMnN/4qyt/+jwMf/XHF5/2V1fP9aYWr/i4iR/46J
+        kv9iaG//Ul5i/1lscf85TVL/YHB2/4ajp/9vqKn/SpOR/4nJyf95srP/hrG0/1h2e/9TaW//ZnF5/4mK
+        lP+DhY3/cXmA/2Z0ev9OYmf/SF5j/19zeP+MsrT/brWy/0ujnf9xvLr/cbOy/4/CxP9eg4f/MUlP/yIy
+        Of8bICn/HSIr/w8aIv8KGiH/SFph/1Robf9edHn/mcLE/1ehnf9bta//VqCc/3S3tP+Du7z/ha6x/3OK
+        kv9dbHX/eIGL/3mDjf96iZL/hpeg/32Jk/9re4L/iaGn/5O8v/9YnZr/XK6p/z6IhP9an5z/XZaX/5XC
+        xv+EnqX/fYuX/2t3g/9aZXP/UF1r/1ZkcP9zfIn/ZXZ//7TR1v+TwMP/bbCt/2CsqP9MlpL/dbq3/2mn
+        p/9woKT/kq+4/3yMmf9aZ3f/Ulxt/1pkdf99h5j/dYCO/4ufqv+53eP/daus/1eal/+By8f/R5GN/0yT
+        kP9jpaT/Zp2i/5C0vv+Jo7H/coaX/3KCk/91g5b/W2t8/11wf/+bt8L/suHl/366uv9sr6z/Yail/1uj
+        nf9NlJH/J21s/369wf+LwMr/oMzZ/4Oltf9uipv/d5Ck/3aSo/+Ep7X/rdrl/6Da3/90trX/a66r/2Op
+        o/9IkIr/X6aj/16npf9rsLP/Xpmi/3Wptf+p0eP/mr7Q/5e3yv92mqr/gq28/5LH0f+Gxsr/cLa1/3W4
+        tf9bnpn/
+</value>
+  </data>
 </root>
