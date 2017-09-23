@@ -64,6 +64,8 @@ namespace Math_Quiz
         public Form1()
         {
             InitializeComponent();
+            DateTime today = DateTime.Today;
+            dateLabel.Text = today.ToString("dd MMMM yyyy");
         }
 
         private void startButton_Click(object sender, EventArgs e)
