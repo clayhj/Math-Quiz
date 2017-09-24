@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Media;
 
 namespace Math_Quiz
 {
@@ -130,9 +131,54 @@ namespace Math_Quiz
             }
         }
 
+        private void PlaySimpleSound()
+        {
+            SoundPlayer simpleSound = new SoundPlayer(@"C:\Users\clayh\Desktop\CIT365\Sounds\ding.wav");
+            simpleSound.Play();
+        }
+
         private void sum_ValueChanged(object sender, EventArgs e)
         {
+            if (timeLeft > 1)
+            {
+                if (addend1 + addend2 == sum.Value)
+                {
+                    PlaySimpleSound();
+                }
+            }
+        }
 
+        private void difference_ValueChanged(object sender, EventArgs e)
+        {
+            if (timeLeft > 1)
+            {
+                if (minuend - subtrahend == difference.Value)
+                {
+                    PlaySimpleSound();
+                }
+            }
+        }
+
+        private void product_ValueChanged(object sender, EventArgs e)
+        {
+            if (timeLeft > 1)
+            {
+                if (multiplicand * multiplier == product.Value)
+                {
+                    PlaySimpleSound();
+                }
+            }
+        }
+
+        private void quotient_ValueChanged(object sender, EventArgs e)
+        {
+            if (timeLeft > 1)
+            {
+                if (dividend / divisor == quotient.Value)
+                {
+                    PlaySimpleSound();
+                }
+            }
         }
     }
 }
