@@ -178,7 +178,7 @@ namespace Math_Quiz
                 {
                     PlaySimpleSound();
                 }
-            }
-        }
+            } 
+        } 
     }
 }
